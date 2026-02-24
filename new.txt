@@ -1,0 +1,10 @@
+# Test file for Reddit clone application
+import unittest
+
+class TestRedditClone(unittest.TestCase):
+    def test_example(self):
+        """Example test case"""
+        self.assertTrue(True)
+
+if __name__ == '__main__':
+    unittest.main()
