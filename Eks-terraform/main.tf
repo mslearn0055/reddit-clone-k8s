@@ -101,4 +101,4 @@ resource "aws_eks_node_group" "example" {
   ]
 }
 ########added new brNCH 
-
+adede 
